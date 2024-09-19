@@ -6,7 +6,12 @@
 //
 
 import SwiftUI
-
+/*
+ MVVM
+ Modal - data point
+ ViewModal - manages Modals for View
+ View - UI
+ */
 @main
 struct LinkedMapListApp: App {
     var body: some Scene {
