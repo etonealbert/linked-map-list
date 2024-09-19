@@ -16,7 +16,7 @@ import SwiftUI
 struct LinkedMapListApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListView()
         }
     }
 }
